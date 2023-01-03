@@ -45,7 +45,7 @@ run `php artisan serve`.
 
 ## Authors
 
-👤 **Hakim**
+👤 **Rich**
 
 - GitHub: [@assadounto](https://github.com/assadounto)
 
